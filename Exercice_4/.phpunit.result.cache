@@ -1,1 +1,1 @@
-{"version":1,"defects":{"ExampleTest::phpunit_works":3,"ExampleTest::testMath":4},"times":{"ExampleTest::phpunit_works":0.003,"ExampleTest::testMath":0.003}}
+{"version":1,"defects":{"ExampleTest::phpunit_works":3,"ExampleTest::testMath":4},"times":{"ExampleTest::phpunit_works":0.002,"ExampleTest::testMath":0.003}}
