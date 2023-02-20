@@ -12,13 +12,7 @@ class ExampleTest extends TestCase
      */
     public function phpunit_works(): void
     {
-        // self::assertTrue($this->isTrue);
-        // $a = "la";
-        // $b = "le";
-        // $c = $a + $b;
-        // echo $c;
-        // die;
-        // $this->assertIsInt($c);
+ 
         $this->assertIsArray(5);
 
     }
