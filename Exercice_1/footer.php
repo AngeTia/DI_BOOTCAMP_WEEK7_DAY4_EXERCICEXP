@@ -1,5 +1,5 @@
-<footer>
-    <p>Copyright © 2023</p>
-  </footer>
-</body>
+  <footer>
+      <p>Copyright © 2023</p>
+    </footer>
+  </body>
 </html>
